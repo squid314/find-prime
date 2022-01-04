@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 """simple utility to find the closest prime number to a provided number"""
 
